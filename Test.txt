@@ -1,0 +1,10 @@
+Code is written in this for you to see
+
+
+#include<iostream.h>
+
+void main()
+{
+ 	cout<<"Hello World Obviously";
+	cout<<"Test Confirmed";
+}
